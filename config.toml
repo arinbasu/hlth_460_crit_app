@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Tutorials on Critical Reading and Writing"
+theme = "ananke"
+publishDir = "docs"

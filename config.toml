@@ -1,7 +1,7 @@
 baseURL = "https://arinbasu.github.io/hlth_460_crit_app/"
 languageCode = "en-us"
 title = "Tutorials on Critical Reading and Writing"
-theme = "classic"
+theme = "ananke"
 publishDir = "docs"
 
 

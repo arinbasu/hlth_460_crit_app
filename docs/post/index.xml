@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tutorials on Critical Reading and Writing</title>
-    <link>/post/</link>
+    <link>https://arinbasu.github.io/hlth_460_crit_app/post/</link>
     <description>Recent content in Posts on Tutorials on Critical Reading and Writing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Dec 2017 21:47:18 +1300</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arinbasu.github.io/hlth_460_crit_app/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>/post/first/</link>
+      <link>https://arinbasu.github.io/hlth_460_crit_app/post/first/</link>
       <pubDate>Wed, 20 Dec 2017 21:47:18 +1300</pubDate>
       
-      <guid>/post/first/</guid>
+      <guid>https://arinbasu.github.io/hlth_460_crit_app/post/first/</guid>
       <description>What is this course and the series of tutorials about? We are going to learn critical thinking, reading, and writing in this course, and critically appraising complex literature.</description>
     </item>
     

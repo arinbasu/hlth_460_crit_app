@@ -3,35 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://arinbasu.github.io/hlth_460_crit_app/post/second/</loc>
+    <lastmod>2017-12-20T22:39:05+13:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://arinbasu.github.io/hlth_460_crit_app/post/first/</loc>
     <lastmod>2017-12-20T21:47:18+13:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://arinbasu.github.io/hlth_460_crit_app/categories/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://arinbasu.github.io/hlth_460_crit_app/post/</loc>
-    <lastmod>2017-12-20T21:47:18+13:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2017-12-20T22:39:05+13:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://arinbasu.github.io/hlth_460_crit_app/tags/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://arinbasu.github.io/hlth_460_crit_app/</loc>
-    <lastmod>2017-12-20T21:47:18+13:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2017-12-20T22:39:05+13:00</lastmod>
     <priority>0</priority>
   </url>
   

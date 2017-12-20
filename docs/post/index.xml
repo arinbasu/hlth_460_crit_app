@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Tutorials on Critical Reading and Writing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Dec 2017 21:47:18 +1300</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2017 22:39:05 +1300</lastBuildDate>
     
 	<atom:link href="https://arinbasu.github.io/hlth_460_crit_app/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second</title>
+      <link>https://arinbasu.github.io/hlth_460_crit_app/post/second/</link>
+      <pubDate>Wed, 20 Dec 2017 22:39:05 +1300</pubDate>
+      
+      <guid>https://arinbasu.github.io/hlth_460_crit_app/post/second/</guid>
+      <description> What is meant by critical thinking Every statement can be:
+ Description Summary Opinion Belief Clarification Illustration Explanation Argument  </description>
+    </item>
     
     <item>
       <title>Hello World</title>
